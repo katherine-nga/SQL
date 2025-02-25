@@ -201,4 +201,8 @@ SELECT MIN(AGE) AS min_age, MAX(AGE) AS max_age, MAX(AGE) AS age_range FROM STUD
 Nota:   
 Las funciones MIN y MAX solo se pueden usar con columnas de tipo de datos numérico. Si la columna contiene valores no numéricos, como cadenas de texto, las funciones devolverán un error.
  
+### Agrupación de datos en SQL: GROUP BY, HAVING y CASE
+
+#### GROUP BY
+Esta cláusula es una herramienta fundamental para agrupar y organizar datos en conjuntos relacionados, permitiendo realizar cálculos y análisis estadísticos más precisos y significativos.
 
