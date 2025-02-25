@@ -206,3 +206,4 @@ Las funciones MIN y MAX solo se pueden usar con columnas de tipo de datos numér
 #### GROUP BY
 Esta cláusula es una herramienta fundamental para agrupar y organizar datos en conjuntos relacionados, permitiendo realizar cálculos y análisis estadísticos más precisos y significativos.
 
+#### HAVING
